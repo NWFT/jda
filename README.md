@@ -1,2 +1,2 @@
 # jda
-for JDA code sharing
+for JDA code sharing.
